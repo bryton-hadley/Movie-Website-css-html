@@ -1,14 +1,19 @@
 body{
     margin: 0;
-}
-
-head{
-    margin: 0;
+    height: 10vh;
+    background-color: #F4E285;
 }
 
 header {
 margin: 0;
 text-align: center;
-background-color: lavender;
-color: darkmagenta;
+background-color: #5B8E7D;
+color: #F4A259;
+box-shadow: 2px 2px lightgray;
+
+}
+
+p {
+    border: solid #F4A259;
+    background-color:  #5B8E7D;
 }
